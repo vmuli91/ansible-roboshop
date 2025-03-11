@@ -12,7 +12,7 @@
       state: installed
   - name: insatll mongodb
     ansible.builtin.yum:
-      name: mongod-org
+      name: mongodb-org
       state: installed
   - name: start and enable mongodb
     ansible.builtin.service:
