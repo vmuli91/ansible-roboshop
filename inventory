@@ -1,0 +1,9 @@
+[mongodb]
+mongodb.masterdevops.site
+
+[catalogue]
+catalogue.masterdevops.site
+
+[web]
+web.masterdevops.site
+
